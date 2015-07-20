@@ -3,7 +3,7 @@
 ;;; Copyright 2015
 ;;; thomas.haug@mathema.de 
 
-;;; a simple TCP client
+;;; a simple TCP client test
 
 ;; import the socket lib
 (import (rnrs)
